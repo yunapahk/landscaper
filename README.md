@@ -1,5 +1,3 @@
-![GA Logo](https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/General_Assembly_logo.svg/1280px-General_Assembly_logo.svg.png)
-
 # Landscaper
 
 ![studio ghibli landscape](https://peakmemory.files.wordpress.com/2014/06/cliufqx.jpg)
@@ -119,8 +117,8 @@ You'll be creating a simple game using your new language that takes in user inpu
 1. Your landscaper game *must* run on first load with no syntax errors
 1. If there are errors you can't solve, comment them out and leave a comment above it explaining what is wrong
 
-## Hungry for More?
 
+## Additional Features
 1. Add the ability to reset the game at any point so that you can play again
 1. Make it so that a user can have multiple tools, and money earned each day is increased appropriately (e.g. 2 scissors, and an old-timey push lawnmower means you earn $60/day )
 1. Once you've implemented multiple tools, make it so you can sell tools for half price
